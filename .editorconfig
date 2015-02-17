@@ -1,0 +1,9 @@
+root = true
+
+[*.hs]
+indent_style = space
+indent_size = 4
+
+[*.cabal]
+indent_style = space
+indent_size = 2
